@@ -3,7 +3,7 @@
  * Wed Apr 08 06:15:59 GMT 2020
  */
 
-package esc.problemset3.question7;
+package esc.problemset3.cohortexercise07;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
